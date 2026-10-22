@@ -5,3 +5,4 @@ Project-oriented course to allow students to apply their knowledge of software e
 ## Team Details
  # Team 1
  # Team 2
+ # Team 3
